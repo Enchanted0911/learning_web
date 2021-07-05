@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="19_过滤器对请求对象增强:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/19__war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="19_过滤器对请求对象增强/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="19_过滤器对请求对象增强" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
